@@ -38,7 +38,7 @@
 
 **Jerod Santo:** Ah, Simey.
 
-**Gerhard Lazu:** Yeah, Simey was asking -- so he wrote "The Changelog DevOps seems complicated, yet a lot of past providers want us to believe we can just slap in all of their services and only worry about scaling much later." So he was wondering if Changelog just ran on Heroku? How much of the current setup is necessary to support the current scale, and how much of it is over-engineering and nerding out? So we get to answer your question, Simey, in this episode.
+**Gerhard Lazu:** Yeah, Simey was asking -- so he wrote "The Changelog DevOps seems complicated, yet a lot of PaaS providers want us to believe we can just slap in all of their services and only worry about scaling much later." So he was wondering if Changelog just ran on Heroku? How much of the current setup is necessary to support the current scale, and how much of it is over-engineering and nerding out? So we get to answer your question, Simey, in this episode.
 
 **Jerod Santo:** Hm... The plot thickens.
 
